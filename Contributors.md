@@ -66,6 +66,7 @@ Tony Idehen
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
 - [Abigel Asteraye](https://github.com/simplectasy)
+- [Prakash](https://github.com/Prakash4844)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Samiksha Kute] (https://github.com/samikshakute)
@@ -73,6 +74,7 @@ Tony Idehen
   [John Carmack](https://pokemonpower92.github.io/portfolio/)
 - <a href="https://github.com/hello-smile6">hello-smile6</a> <sub><a href="https://solanum.9pfs.repl.co">(Personal IRC network)</a></sub><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=hello-smile6&show_icons=true&theme=tokyonight)](https://github.com/hello-smile6/)
 - [Aaron Lowe](https://github.com/CyberFlameGO
+- [Susan Shilbi](https://github.com/susan7shilbi)
 - [Josh Hayles] (https://github.com/joshhayles)
 - [David yao] (https://github.com/davidyao2011)
 - [Dino Luethy] (https://github.com/EngineerDino)
@@ -142,6 +144,7 @@ Tony Idehen
 - [Kiran Kumar](https://github.com/CodingKiran)
 - [Arjun M](https://github.com/arjunm2305)
 - [Brandon Bondig](https://github.com/brandonbondig)
+- [Songha Chheo](https://github.com/songhachheo)
 - [Rishika Sinha](https://github.com/rishikasinha7)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
@@ -1900,6 +1903,7 @@ Gabrielle Jones
 -[Ajinkya Bhandare](https://github.com/0-Ajinkya)
 -[shiwam](https://github.com/orrgato)
 -[Abhay](https://github.com/abhaypsamrat)
+-[Sagar Goswami](https://github.com/sagargoswami2001)
 -[Ali Daoudi]
 -[Alice Chen]
 -[Gergana](https://github.com/gerito100)
@@ -7835,6 +7839,7 @@ Stephen kihuni
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
 - [Guancheng Fu](https://github.com/litstar414)
+- [Carlos Guzman](https://github.com/Carlos7T)
 - [Terence Teoh](https://github.com/terenceteoh23)
 - [Anish Lukkireddy](https://github.com/anishlukk123)
 - [Ricky](https://github.com/rickybopanna)
@@ -7875,4 +7880,5 @@ Stephen kihuni
 - [Võ Minh Thiên Long](https://github.com/thienlongtpct)
 - [Vincent Lee](https://github.com/VLDQ)
 - [Robert Crockett](https://github.com/robertcrockett)
+- [Jeeten Potabathni](https://github.com/jeetenp)
 <!-- prettier-ignore-end -->
